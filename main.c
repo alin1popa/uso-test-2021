@@ -7,7 +7,7 @@ int main()
 	int x = 5;
 	int y = 10;
 
-	printf("%d\n", y);
+	printf("%d %d\n", x, y);
 
 	return 0;
 }
